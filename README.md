@@ -3,9 +3,9 @@ My MSc. thesis was in Biological warfare from historical past to present.
 It is mainly described upon the history of bio-war.
 Different country and the different gang who were involved in bio-war and also which kind of bio weapons were used are the main topic of this project.
 
-===============================
- Described topics are here 
-===============================
+================================
+describrd topics are --
+
  bioterrorism before World War I
  bioterrorism during World War 
  bioterrorism after World War II
